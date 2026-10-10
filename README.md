@@ -8,8 +8,6 @@ pathways such as the [IBM SkillsBuild Cybersecurity Fluency Pathway](https://lnk
 cementing the foundations required to understand how different systems synergise in
 integrated security domains, allowing me to engineer purposeful projects that practicalise security.
 
----
-
 ## Projects
 My projects focus on demonstrating how I think about security, edge cases and trade-offs while maintaining a level of
 conciseness that lets you comprehend it first thing in the morning, even before your first cup of coffee.
