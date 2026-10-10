@@ -1,4 +1,6 @@
-![Header](./github-header-banner.png)
+<p>
+  <img src="./contour-yellow-profile-banner.png" alt="Header">
+</p>
 
 ## About Me
 My interest lies in cybersecurity and designing secure systems that can fit into a larger security ecosystem.
